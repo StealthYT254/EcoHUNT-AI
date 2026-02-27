@@ -1,0 +1,37 @@
+product_id,name,category,base_price,current_price,unit,eco_rating,brand
+P001,Organic Basmati Rice,Grocery,185,172,1kg,4.8,Nature Fresh
+P002,Cold Pressed Coconut Oil,Grocery,320,289,500ml,4.7,KLF Nirmal
+P003,Organic Toor Dal,Grocery,165,148,1kg,4.5,Organic Tattva
+P004,Bamboo Toothbrush Pack,Personal Care,199,165,4 pack,4.9,The Better Home
+P005,Natural Jaggery Powder,Grocery,120,98,500g,4.6,Conscious Food
+P006,Organic Green Tea,Grocery,250,215,100 bags,4.4,Organic India
+P007,LED Bulb Pack 9W,Energy,599,485,Pack of 6,4.6,Philips
+P008,Solar LED Garden Lamp,Energy,899,745,1 unit,4.9,Syska
+P009,BEE 5-Star Ceiling Fan,Energy,2899,2450,1 unit,4.7,Atomberg
+P010,Organic Jute Shopping Bag,Lifestyle,149,125,1 bag,4.8,EcoRight
+P011,Organic Chia Seeds,Grocery,299,255,200g,4.5,True Elements
+P012,Bamboo Cutlery Set,Lifestyle,349,285,6 piece,4.7,Bamboo India
+P013,Organic Flax Seeds,Grocery,179,152,250g,4.3,Nutraj
+P014,Copper Water Bottle,Lifestyle,599,489,1L,4.8,Indian Art Villa
+P015,Energy Efficient Geyser,Energy,4500,3850,15L,4.6,Racold
+P016,Organic Honey,Grocery,450,389,500g,4.7,Under The Mango Tree
+P017,Solar Power Bank 20000mAh,Energy,1999,1650,1 unit,4.5,Ambrane
+P018,Recycled Paper Notebooks,Lifestyle,220,185,Pack of 5,4.4,Paperman
+P019,Organic Masoor Dal,Grocery,140,118,1kg,4.5,24 Mantra
+P020,BEE 5-Star AC 1.5T,Energy,35990,31500,1 unit,4.8,Blue Star
+P021,Herbal Dish Wash Liquid,Personal Care,175,145,500ml,4.3,Koparo
+P022,Organic Peanut Butter,Grocery,299,249,400g,4.6,MyFitness
+P023,Smart LED Tube Light,Energy,450,375,4ft,4.5,Wipro
+P024,Compostable Trash Bags,Lifestyle,199,168,30 bags,4.7,Beco
+P025,Organic Quinoa,Grocery,399,339,500g,4.6,True Elements
+P026,Bamboo Fiber Towel Set,Lifestyle,899,749,4 piece,4.8,Mush
+P027,Solar Mosquito Killer Lamp,Energy,1299,1050,1 unit,4.4,Pick Ur Needs
+P028,Organic Turmeric Powder,Grocery,180,149,200g,4.7,24 Mantra
+P029,Steel Straw Set Reusable,Lifestyle,249,199,8 piece,4.9,Ecotyl
+P030,Inverter Split AC 1T,Energy,28990,25500,1 unit,4.7,Daikin
+P031,Organic Ragi Flour,Grocery,130,108,1kg,4.5,Aashirvaad
+P032,Natural Loofah Scrubber,Personal Care,99,79,3 pack,4.6,Almitra
+P033,Solar Water Heater 100L,Energy,18999,16499,100L,4.8,Supreme
+P034,Organic Coconut Sugar,Grocery,220,185,250g,4.4,Conscious Food
+P035,Cloth Produce Bags Set,Lifestyle,299,245,10 bags,4.7,Clean Planet
+P036,BEE 5-Star Refrigerator,Energy,24999,21999,260L,4.8,LG
