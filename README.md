@@ -1,4 +1,4 @@
-# 🌿 EcoDeal Voice AI 
+# 🌿 EcoHunt Voice AI 
 
 **Smart deals for a greener Bharat, just a voice command away.**
 
